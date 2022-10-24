@@ -1,6 +1,6 @@
 # Проекты 1-12 / Дата Аналитика / Яндекс.Практикум  
 
-[![Alt text](//http://www.google.com/images/logo.gif)](http://www.google.com/)
+[![Alt text](//placehold.it/150x100)](http://example.com/)
 
 ## Все проекты упорядочены по ходу обучения 
 
