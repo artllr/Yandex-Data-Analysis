@@ -1,7 +1,7 @@
 # Проекты 1-12 / Дата Аналитика / Яндекс.Практикум  
 <a id="soderjanie"></a>  
 
-[logo]: http://www.google.com/images/logo.gif
+![logo]: http://www.google.com/images/logo.gif
 [google]: http://www.google.com/ "щелкните, чтобы посетить Google.com"
 
 ## Все проекты упорядочены по ходу обучения 
