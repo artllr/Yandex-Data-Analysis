@@ -1,6 +1,6 @@
 # Проекты 1-12 / Дата Аналитика / Яндекс.Практикум  
 
-[![Alt text](//placehold.it/150x100)](http://example.com/)
+[![Alt text](//https://guides.hexlet.io/assets/images/markdown/markdown.png)](http://example.com/)
 
 ## Все проекты упорядочены по ходу обучения 
 
