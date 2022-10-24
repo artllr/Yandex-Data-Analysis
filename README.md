@@ -1,5 +1,4 @@
 # Проекты 1-12 / Дата Аналитика / Яндекс.Практикум  
-<a id="soderjanie"></a>  
 
 [![Alt text](//http://www.google.com/images/logo.gif)](http://www.google.com/)
 
