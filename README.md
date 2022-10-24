@@ -1,7 +1,8 @@
 # Проекты 1-12 / Дата Аналитика / Яндекс.Практикум  
 <a id="soderjanie"></a>  
-***Проекты упорядочены по ходу обучения***  
-Описание всех проектов:
+![Image](http://sun9-82.userapi.com/s/v1/ig2/81xsi2U-YtsxE8XE1JTjCxsTogYXrkRp8FBu-UzBJGF3GcuMJ19zBZPvSGV9msP1IhHdjdChd5nWZVBZEgNaFgnb.jpg?size=200x200&quality=95&crop=0,0,556,556&ava=1.png)
+
+## Все проекты упорядочены по ходу обучения 
 
 <table>
 <tr>
