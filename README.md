@@ -114,3 +114,19 @@
 <td><a href="https://disk.yandex.ru/i/q1skrhtXYGqxsw"><b>Презентация</b></a>, <a href="https://public.tableau.com/views/bank_16625768849080/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link"><b>Дашборд</b></a></td>  
 <tr>    
 </table>
+
+
+<td> <b>12 (Выпускной проект)</b></td>
+<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/10%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2%20%D0%90%D0%91-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.ipynb" target="_blank"><b>Провести оценку результатов AB-теста</b></a></td>
+<td></td>
+<td>Python (pandas, matplotlib, seaborn, plotly), A/B-тестирование, событийная аналитика, продуктовые метрики, проверка статистических гипотез, визуализация данных</td>
+<td><b>-</b></td>  
+<tr>
+
+
+<td> <b>13 (Выпускной проект)</b></td>
+<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/10%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2%20%D0%90%D0%91-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.ipynb" target="_blank"><b>Проект по SQL</b></a></td>
+<td></td>
+<td>SQL</td>
+<td><b>-</b></td>  
+<tr>
